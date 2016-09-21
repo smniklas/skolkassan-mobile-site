@@ -1,0 +1,29 @@
+.logo-div{
+    height:100%;
+}
+.mobi-menu{
+    margin-top:0 !important;
+}
+.bottom-border{
+    border-bottom: none;
+}
+.no-shadow{
+    box-shadow: none !important;
+}
+.intro-text{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align:left;
+}
+.some-padding-bot{
+    padding-bottom: 10px!important;
+}
+.no-padding-top{
+    padding-top: 0px!important;
+}
+.title-padding{
+    padding-left: 28px!important;
+}
+.back-top{
+    display:none;
+}
